@@ -1,0 +1,8 @@
+[package_detail]
+name = "bdaddr"
+description = "Utility for changing the Bluetooth device address"
+version = "5.64"
+source_url = "https://github.com/bluez/bluez/blob/master/tools/bdaddr.c"
+license = "GPL-2.0, LGPL-2.1"
+install_script = "setup.sh"
+install_script_type = "shell"
